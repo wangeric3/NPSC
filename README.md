@@ -1,0 +1,2 @@
+# NPSC
+Competition repository
